@@ -35,4 +35,8 @@ Attempt #3 - 12/12
 Attempt #1 - 13/15
 - Protocol
 - One matching security method
+Attempt #2 - 14/16
+- Anycast/Unicast
+- Header/Trailer/Integrity
+Attempt #3 - 15/15
 
