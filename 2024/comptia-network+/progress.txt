@@ -1,0 +1,15 @@
+2024-10-08
+CompTIA CertMaster Practice for Network+ N10-009
+
+1.0 Networking Concepts
+1.1 - 1.8
+1.1 Explain concepts related to the Open Systems Interconnection (OSI) reference model.
+Attempt #1 - 7/7
+Attempt #2 - 7/7
+Attempt #3 - 7/7
+---
+1.2 Compare and contrast networking appliances, applications, and functions.
+Attempt #1 - 12/12
+Attempt #2 - 12/12
+Attempt #3 - 12/12
+---
