@@ -23,3 +23,9 @@ Attempt #2 - 12/13
 - Private/Public/Hybrid X
 Attempt #3 - 13/13
 ---
+
+2024-10-09
+---
+1.3 Summarize cloud concepts and connectivity options.
+Attempt #1 - 12/12
+
