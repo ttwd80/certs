@@ -53,5 +53,7 @@ Attempt #1 - 11/15
 - 1000base
 - single LC
 - limited front facing space
+Attempt #1 - 13/14
+- a/b/g/n/ac
 
 
