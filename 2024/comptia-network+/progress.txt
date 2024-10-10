@@ -42,6 +42,7 @@ Attempt #3 - 15/15
 
 Thu Oct 10 13:32:49 UTC 2024
 ---
+1.4 Explain common networking ports, protocols, services, and traffic types.
 Attempt #1 - 15/15
 Attempt #2 - 15/15
 Attempt #3 - 15/15
