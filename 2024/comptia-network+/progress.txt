@@ -47,3 +47,11 @@ Attempt #1 - 15/15
 Attempt #2 - 15/15
 Attempt #3 - 15/15
 
+1.5 Compare and contrast transmission media and transceivers.
+Attempt #1 - 11/15
+- a/b/g/n
+- 1000base
+- single LC
+- limited front facing space
+
+
