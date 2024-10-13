@@ -59,6 +59,7 @@ Attempt #3 - 14/14 1x
 Attempt #4 - 14/14 2x
 Attempt #5 - 14/14 3x
 
-
-
+Sun Oct 13 18:15:49 UTC 202
+1.6 Compare and contrast network topologies, architectures, and types.
+Attempt #1 - ?
 
