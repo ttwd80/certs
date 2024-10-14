@@ -66,5 +66,8 @@ Attempt #1 - 8/12
 - multi protocol between routers
 - physical/logical topography star/hub
 - physical/logical topography star/hub
+Attempt #2 - 10/10 1x
+
+
 
 
