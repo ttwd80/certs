@@ -1,1 +1,17 @@
+CompTIA CertMaster Practice for Network+ N10-009
+
+2.0 Network Implementation
+---
+2.1 - 2.4
+---
+Mon Oct 14 00:59:52 UTC 2024
+2.1 Explain characteristics of routing technologies.
+Attempt #1 - 16/17
+- Convergence
+Attempt #2 - 17/17 1x
+Attempt #3 - 17/17 2x
+Attempt #4 - 17/18 
+- OSPF
+
+
 
