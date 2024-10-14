@@ -74,6 +74,13 @@ Mon Oct 14 00:18:19 UTC 2024
 1.7 Given a scenario, use appropriate IPv4 network addressing.
 Attempt #1 - 9/10
 - class A/B/C
+Attempt #2 - 10/11
+- CIDR vs VLSM
+Attempt #3 - 10/10 1x
+Attempt #4 - 10/10 2x
+Attempt #5 - 10/10 3x
+
+
 
 
 
