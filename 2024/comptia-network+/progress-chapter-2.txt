@@ -13,5 +13,8 @@ Attempt #3 - 17/17 2x
 Attempt #4 - 17/18 
 - OSPF
 
-
-
+Tue Oct 15 11:54:31 UTC 2024
+2.1 Explain characteristics of routing technologies.
+Attempt #1 - 17/17
+Attempt #2 - 17/17
+Attempt #3 - 17/17
