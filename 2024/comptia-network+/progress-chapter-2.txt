@@ -24,3 +24,8 @@ Wed Oct 16 10:42:20 UTC 2024
 Attempt #1 - 14/19
 Attempt #2 - 17/17 1x
 Attempt #3 - 18/18 2x
+
+Wed Oct 16 14:45:19 PDT 2024
+Wed Oct 16 21:45:19 UTC 2024
+2.3 Given a scenario, select and configure wireless devices and technologies
+Attempt #1 - 15/20
