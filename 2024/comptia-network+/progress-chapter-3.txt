@@ -12,3 +12,4 @@ Thu Oct 17 06:59:13 PDT 2024
 Thu Oct 17 13:59:13 UTC 2024
 3.2 Given a scenario, use network monitoring technologies.
 Attempt #1 - 7/21
+Attempt #2 - 17/19
