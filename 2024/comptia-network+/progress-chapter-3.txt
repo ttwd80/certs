@@ -16,3 +16,8 @@ Attempt #2 - 17/19
 Attempt #3 - 17/17 1x
 Attempt #4 - 17/17 2x
 Attempt #5 - 17/17 3x
+
+Fri Oct 18 08:23:23 PDT 2024
+Fri Oct 18 15:23:23 UTC 2024
+Learning: 3.3 Explain disaster recovery (DR) concepts.
+Attempt #1 - 13/17
