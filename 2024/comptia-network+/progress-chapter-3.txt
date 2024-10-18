@@ -24,3 +24,8 @@ Attempt #1 - 13/17
 Attempt #2 - 14/14 1x
 Attempt #3 - 14/14 2x
 Attempt #4 - 14/14 3x
+
+Fri Oct 18 11:53:09 PDT 2024
+Fri Oct 18 18:53:09 UTC 2024
+3.4 Given a scenario, implement IPv4 and IPv6 network services.
+Attempt #1 - 13/19
