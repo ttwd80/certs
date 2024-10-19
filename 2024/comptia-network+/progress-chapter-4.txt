@@ -13,4 +13,5 @@ Sat Oct 19 18:11:57 UTC 2024
 4.2 Summarize various types of attacks and their impact to the network.
 Attempt #1 - 14/19
 Attempt #2 - 18/18 1x
+Attempt #3 - ?
 
