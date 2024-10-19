@@ -16,3 +16,7 @@ Attempt #2 - 18/18 1x
 Attempt #3 - 18/18 2x
 Attempt #4 - 18/18 3x
 
+Sat Oct 19 12:13:21 PDT 2024
+Sat Oct 19 19:13:21 UTC 2024
+4.3 Given a scenario, apply network security features, defense techniques, and solutions.
+Attempt #1 - ?
