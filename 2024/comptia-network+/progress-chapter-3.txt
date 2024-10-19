@@ -42,5 +42,6 @@ Attempt #3 - 18/18 3x
 Sat Oct 19 08:08:29 PDT 2024
 Sat Oct 19 15:08:29 UTC 2024
 3.5 Compare and contrast network access and management methods.
-Attempt #1 - 2/13 😳
+Attempt #1 - 2/13 😬
+
 
