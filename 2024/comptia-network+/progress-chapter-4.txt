@@ -5,3 +5,4 @@ Sat Oct 19 15:50:42 UTC 2024
 4.1 Explain the importance of basic network security concepts.
 Attempt #1 - 15/20
 Attempt #2 - 18/18 1x
+Attempt #3 - 18/18 2x
