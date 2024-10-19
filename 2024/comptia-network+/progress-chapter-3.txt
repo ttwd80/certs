@@ -30,3 +30,8 @@ Fri Oct 18 18:53:09 UTC 2024
 3.4 Given a scenario, implement IPv4 and IPv6 network services.
 Attempt #1 - 13/19
 Attempt #2 - 17/19
+
+Sat Oct 19 05:49:39 PDT 2024
+Sat Oct 19 12:49:39 UTC 2024
+3.4 Given a scenario, implement IPv4 and IPv6 network services.
+Attempt #1 - 17/18
