@@ -3,3 +3,5 @@ Sat Oct 19 12:13:21 PDT 2024
 Sat Oct 19 19:13:21 UTC 2024
 5.1 Explain the troubleshooting methodology.
 Attempt #1 - 16/16 1x
+Attempt #2 - 16/16 2x
+
