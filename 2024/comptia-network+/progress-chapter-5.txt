@@ -5,3 +5,7 @@ Sat Oct 19 19:13:21 UTC 2024
 Attempt #1 - 16/16 1x
 Attempt #2 - 16/16 2x
 Attempt #3 - 16/16 3x
+
+5.2 Given a scenario, troubleshoot common cabling and physical interface issues.
+Tue Oct 22 07:49:43 PDT 2024
+Tue Oct 22 14:49:43 UTC 2024
