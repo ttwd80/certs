@@ -17,4 +17,4 @@ Attempt #4 - 19/19 3x
 5.3 Given a scenario, troubleshoot common issues with network services.
 Wed Oct 23 05:13:09 PDT 2024
 Wed Oct 23 12:13:09 UTC 2024
-Attempt #1 - ?
+Attempt #1 - 9/16
