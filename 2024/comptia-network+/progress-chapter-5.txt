@@ -21,3 +21,7 @@ Attempt #1 - 9/16
 Attempt #2 - 16/16 1x
 Attempt #3 - 16/16 2x
 Attempt #4 - 16/16 3x
+
+
+5.4 Given a scenario, troubleshoot common performance issues.
+Attempt #1 - 16/16 1x
